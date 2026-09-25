@@ -1,0 +1,8 @@
+flake8==7.4.1
+mlflow==3.16.1
+mlflow-skinny==3.16.1
+mlflow-tracing==3.16.1
+numpy==2.2.6
+pandas==2.3.3
+pytest==9.1.1
+scikit-learn==1.7.2
