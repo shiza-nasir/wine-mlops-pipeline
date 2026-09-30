@@ -13,4 +13,4 @@ train:
 
 clean:
 	del /S /Q *.pyc 2>nul
-	del /S /Q .pytest_cache\* 2>nul
+	rmdir /S /Q .pytest_cache 2>nul
